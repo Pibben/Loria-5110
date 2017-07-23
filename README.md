@@ -9,3 +9,5 @@ LoRa-converted Nokia 5110
 * https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/libraries/SX1272
 * https://github.com/sandeepmistry/arduino-LoRa
 * https://github.com/realspinner/SX1278_LoRa
+* https://github.com/Lora-net/LoRaMac-node/tree/master/src/radio
+* https://developer.mbed.org/teams/Semtech/code/SX1276Lib/
