@@ -6,3 +6,6 @@ LoRa-converted Nokia 5110
 * ftp://distrib.akp.su/misc%20&%20utils/nokia/Nokia/Manual/Nokia%205110/04uif.pdf
 * http://www.soemtron.org/downloads/disposals/74c922.pdf
 * http://www.ti.com/lit/ds/symlink/tca8418.pdf (QFN-24)
+* https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/libraries/SX1272
+* https://github.com/sandeepmistry/arduino-LoRa
+* https://github.com/realspinner/SX1278_LoRa
